@@ -8,4 +8,6 @@ Nuevo colaborador opensource
 
 Master 1
 
+Master 2
+
 Mañana nos enfocamos en otra cosa.
