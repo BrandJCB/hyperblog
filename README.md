@@ -9,5 +9,6 @@ Es parte del curso de Git y GitHub de Platzi
 * Trucos del Profesor 
 * Creado por Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Recordatorio importante **Solo estamos probando con el readme.md**
