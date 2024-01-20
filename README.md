@@ -7,5 +7,6 @@ Es parte del curso de Git y GitHub de Platzi
 * El flujo de trabajo en Git
 * Buenaas Practicas
 * Trucos del Profesor 
+* Creado por Platzi Team
 
 Recordatorio importante **Solo estamos probando con el readme.md**
