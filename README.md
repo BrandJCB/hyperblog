@@ -8,5 +8,6 @@ Es parte del curso de Git y GitHub de Platzi
 * Buenaas Practicas
 * Trucos del Profesor 
 * Creado por Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Recordatorio importante **Solo estamos probando con el readme.md**
